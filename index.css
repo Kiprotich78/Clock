@@ -3,6 +3,7 @@ body {
     box-sizing:border-box ;
     width:100vw;
     height:100vh;
+    background: url(/KIP.jpg);
 }
 #second,#min,#hi{
     left:54%;
